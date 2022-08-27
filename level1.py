@@ -1,4 +1,4 @@
-import pygame, arcade, time, random, math, pickle, os, os.path, mysql.connector
+import pygame, arcade, time, random, math, pickle, os, os.path
 from pygame import mixer
 
 # initialize
