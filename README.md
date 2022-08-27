@@ -6,9 +6,9 @@
                           \/\/          \/     \/                \/             \/    \/     \/      
 A 2-D Shooter in Python
 
-Prerequisites:
+Resources:
   1. Python
-  2. Modules:
+  2. External Modules:
     a. pygame
     b. tkinter
     c. opencv-python
@@ -16,7 +16,6 @@ Prerequisites:
 Setup:
   1. Downlaod all files in zip
   2. Extract files
-  3. Run CyberCOmbat.py
+  3. Run main-exe.exe
   4. Enjoy !!!
   
-All Rights Reserved to Varun Anbalagan and K.Darshan, CEO, PL-PA.
