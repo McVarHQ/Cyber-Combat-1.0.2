@@ -12,6 +12,7 @@ Resources:
     a. pygame
     b. tkinter
     c. opencv-python
+    d. arcade
     
 Setup:
   1. Downlaod all files in zip
